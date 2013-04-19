@@ -18,8 +18,7 @@
     "url": "http://chromecide.com/"
   },
   "dependencies": {
-  	"eventemitter2":"0.4.x",
-  	"request": "2.12.x"
+  	"mongodb":"0.4.x"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,29 @@
+{
+  "name": "fdmongo",
+  "version": "0.1.1",
+  "description": "MongoDB Channels for FluxData",
+  "homepage": "https://github.com/chromecide/fdmongo",
+  "keywords": [
+    "FluxData",
+    "events",
+    "event-driven",
+    "framework",
+    "channels",
+    "channel",
+    "FluxData-Channel"
+  ],
+  "author": {
+    "name": "Justin Pradier",
+    "email": "chromecide@chromecide.com",
+    "url": "http://chromecide.com/"
+  },
+  "dependencies": {
+  	"eventemitter2":"0.4.x",
+  	"request": "2.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chromecide/fdmongo.git"
+  },
+  "main": "index.js"
+}
